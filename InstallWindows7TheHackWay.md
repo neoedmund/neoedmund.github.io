@@ -20,9 +20,8 @@ Also some device drivers need to be installed manually.
  * done
 
 ## details
- * Scene 1 , the old disk is going to break, you need to move windows system into a new disk (maybe faster SSD)
- * Scene 2 , you need a new windows 7 system for the new machine.
- * Scene 3 , want to install windows 7 using fast harddisk instead of slow usb drive, without install disc.
+ * Scene 1 , the old disk is going to break, you need to migrate windows system into a new disk (maybe faster SSD)
+ * Scene 2 , you want to install windows 7 using fast harddisk instead of slow usb drive, without install disc.
 
 ### Step 1
 
