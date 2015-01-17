@@ -2,7 +2,7 @@ neoedmund.github.io
 ===================
 
 
-![headicon](neoe.jpeg) Neoe is a man who likes computer software.
+![headicon](neoe.jpeg) Neoe is a man who loves computer software.
 
 Neoe's Default
 ------------------
@@ -10,7 +10,7 @@ Neoe's Default
 * Browser: Firefox
 * Game OS: Windows 7
 * Some game: from Blizzard and Steam
-* File Manager: MuCommander
+* File Manager: xfe
 
 
 Neoe's Default, Also made(or modified) by neoe
@@ -19,8 +19,10 @@ Neoe's Default, Also made(or modified) by neoe
 * DNS server: neoednsproxy
 * Adblock: neoeblock 
 * Mail host: neoemailserver hi@neoe.co
-* Alarm: [CalAlarm Free](https://play.google.com/store/apps/details?id=neoe.calalarm.it1&hl=en) for android
 * Virtual terminal: [jediterm](https://github.com/neoedmund/jediterm), *modified*
+
+
+
 
 
 
