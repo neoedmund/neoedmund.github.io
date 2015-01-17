@@ -25,7 +25,7 @@ Also some device drivers need to be installed manually.
 
 ### Step 1
 
-copy the whole windows system partition(call it "System partition" later) to new target
+copy the all files on windows system partition(call it "System partition" later) to new target
  ```
  	I do it in linux,
  	cp -rp Win7Partition/* NewWin7Partition
