@@ -2,26 +2,21 @@ neoedmund.github.io
 ===================
 
 
-![headicon](neoe.jpeg) Neoe is a man who loves computer software.
-
-Neoe's Default
-------------------
-* OS: Linux Debian
-* Browser: Firefox
-* Game OS: Windows 7
-* Some game: from Blizzard and Steam
-* File Manager: xfe
+![headicon](neoe.jpg) Neoe is a man loves computer.
 
 
-Neoe's Default, Also made(or modified) by neoe
-------------------
+
+* Linux Debian Windows 7
+* Firefox
+* File Manager: jfe
 * Text editor: neoeedit
 * DNS server: neoednsproxy
 * Adblock: neoeblock 
-* Mail host: neoemailserver hi@neoe.co
-* Virtual terminal: [jediterm](https://github.com/neoedmund/jediterm), *modified*
+* Mail host: neoemailserver 
+* terminal: jediterm
+* Arduino, Banana Pi, Orange Pi, Rasperberry Pi,
 
-
+[try this blog](https://n101n.xyz/n/apps.blog_neoe_tech)
 
 
 
